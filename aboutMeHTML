@@ -15,12 +15,12 @@
 <body>
     <div class="grid-2">
         <div class="section-1">
-            <img src="img/logo.png" width="110" height="73">
+            <img src="img/logo.png" width="210" height="146">
             <h2>Henry Banks</h2>
             <p>Baltimore, MD</p>
             <a href="https://www.linkedin.com/in/henry-banks-853293274/"><i class="fab fa-linkedin"></i></a>
             <a href="https://github.com/MarcusBanks04"><i class="fab fa-github"></i></a>
-            <a href="mailto:ude.uhj@laj"><i class="fas fa-envelope"></i></a>  
+            <a href="mailto:ude.hbanks@students.towson.edu"><i class="fas fa-envelope"></i></a>  
 
         </div>
         <div class="section-2">
@@ -38,7 +38,7 @@
             <h2>Projects</h2>
             <h4>Below are some of my previous projects 💻</h4>
             <ul class="phone">
-                <li><u>urrently In Work</li>
+                <li><u>Currently In Work</li>
                 <li><u>Currently In Work</li>
             </ul>
             
